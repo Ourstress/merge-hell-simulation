@@ -10,15 +10,8 @@ Meet-ups are incredibly valuable. In the beginning, it was pretty intimidating t
 Always celebrate the small wins. Building stuff with code is really cool. I never would have arrived where I’m at if I hadn’t stepped back and admired the awesome things I was building along the way.
 
 Avoiding merge conflicts makes you happier. Merge conflicts are annoying. So when I realized that I could sneak a feature in before a teammate so that he/she had to deal with these instead of me, I was super excited.
-<<<<<<< HEAD
 You don’t need to be a math genius. If you’re not a “math person,” that doesn’t mean that you can’t be a programmer.
 You don’t need 5 monitors. Contrary to what Hollywood might tell you, you don’t need an insane external monitor setup to be a programmer. The computer that you own right now is probably good enough to use to start programming. Don’t waste your money.
-=======
->>>>>>> changed para 2 of file 3
 
-<<<<<<< HEAD
 You don’t need to be a math genius. If you’re not a “math person,” that doesn’t mean that you can’t be a programmer.
-=======
 It’s ok to admit what you don’t know. When you land your first programming job, you might be inclined to “fake it till you make it.” Don’t. Nobody expects you to know everything right away.
->>>>>>> changed para 3 of file 3
->>>>>>> changed para 3 of file 3
