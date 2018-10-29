@@ -10,3 +10,4 @@ There’s a BIG difference between a capital letter and a lowercase letter. It t
 
 
 Trying to understand everything is a lost cause. In the beginning, I tried to chase down the “why” to every problem I encountered. This isn’t necessary. Computers are so complex and there is so much to learn, and you’re never going to understand everything. That’s ok.
+Cheating is completely acceptable. I use Google to solve most of my problems, and so do most programmers.
