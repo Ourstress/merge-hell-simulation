@@ -10,3 +10,5 @@ Cheating is completely acceptable. I use Google to solve most of my problems, an
 Learning by yourself is really tough. Talking about code and collaborating with other aspiring developers is a better way to learn for most people.
 
 Pair program as much as possible. There is no faster way to learn how to code.
+
+You’re going to wake up in the morning thinking about code. And when it happens, it’s really freakin’ cool.
