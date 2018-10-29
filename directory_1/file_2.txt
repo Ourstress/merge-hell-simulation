@@ -3,5 +3,8 @@
 Pair program as much as possible. There is no faster way to learn how to code.
 
 Always celebrate the small wins. Building stuff with code is really cool. I never would have arrived where I’m at if I hadn’t stepped back and admired the awesome things I was building along the way.
+You’re going to wake up in the morning thinking about code. And when it happens, it’s really freakin’ cool.
+
+You don’t need to be a math genius. If you’re not a “math person,” that doesn’t mean that you can’t be a programmer.
 
 Meet-ups are incredibly valuable. In the beginning, it was pretty intimidating to get myself to the point where I felt comfortable attending these. But once I did, I realized that there were a ton of developers just like me.
